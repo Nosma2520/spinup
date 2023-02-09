@@ -17,7 +17,7 @@ wait(30, MSEC)
 #endregion VEXcode Generated Robot Configuration
 def calculate_speed():
   return 0
-
+# https://www.vexforum.com/t/how-to-find-the-best-pid-parameters-automatically/106037/4
 # Constants for PID control
 Kp = 2.0  # Proportional gain
 Ki = 0.5  # Integral gain
